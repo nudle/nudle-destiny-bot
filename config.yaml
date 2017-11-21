@@ -1,0 +1,7 @@
+token: 'DISCORD_BOT_TOKEN'
+
+bot:
+  plugins:
+    - plugins.raid
+    - plugins.map
+    - plugins.rewardcheck
