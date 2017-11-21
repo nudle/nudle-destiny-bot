@@ -1,6 +1,8 @@
 # destinybot
 Discord bot for organizing Destiny 2 raids
 
+SORRY I MESSED UP THE GITHUB WILL DELETE ONCE IVE SORTED THINGS OUT
+
 ## Running
 As per the instructions for [Disco](https://github.com/b1naryth1ef/disco), once you put your Discord API key into the config file, you can start the bot with:
 
